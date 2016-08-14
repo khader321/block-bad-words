@@ -1,0 +1,1 @@
+# block-bad-words
